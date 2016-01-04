@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 # list comprehension 배열 이해 ? 
 
 def main():

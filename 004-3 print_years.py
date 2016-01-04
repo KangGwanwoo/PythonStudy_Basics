@@ -10,6 +10,11 @@ def print_year(start,end,step=1,per_line=10):
 		year += step
 		count += 1
 
+	print("\n\n")
+	print("{} year(s) printed.".format(count-1))
+	print("{0} year(s) printed from {1} to {2}".format(count-1,start,end))
+	print("{num} year(s) printed: from {start} to {end}".format(num=count-1,start=start,end=end))
+
 
 def main():
 	"""program entry point

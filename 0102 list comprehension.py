@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# list comprehension 배열 이해 ? 
+# list comprehension 배열 구성 
 
 def main():
 	"""program entry point
